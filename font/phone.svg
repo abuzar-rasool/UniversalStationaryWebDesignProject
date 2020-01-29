@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2017 by original authors @ fontello.com</metadata>
+<defs>
+<font id="phone" horiz-adv-x="1000" >
+<font-face font-family="phone" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="help-circled" unicode="&#xe800;" d="M500 82v107q0 8-5 13t-13 5h-107q-8 0-13-5t-5-13v-107q0-8 5-13t13-5h107q8 0 13 5t5 13z m143 375q0 49-31 91t-77 65-95 23q-136 0-207-119-9-13 4-24l74-55q4-4 10-4 9 0 14 7 30 38 48 51 19 14 48 14 27 0 48-15t21-33q0-21-11-34t-38-25q-35-15-65-48t-29-70v-20q0-8 5-13t13-5h107q8 0 13 5t5 13q0 10 12 27t30 28q18 10 28 16t25 19 25 27 16 34 7 45z m214-107q0-117-57-215t-156-156-215-58-216 58-155 156-58 215 58 215 155 156 216 58 215-58 156-156 57-215z" horiz-adv-x="857.1" />
+
+<glyph glyph-name="phone" unicode="&#xe801;" d="M786 158q0-15-6-39t-12-38q-11-28-68-60-52-28-103-28-15 0-30 2t-32 7-26 8-31 11-28 10q-54 20-97 47-71 44-148 120t-120 148q-27 43-46 97-2 5-10 28t-12 31-8 26-7 32-2 29q0 52 29 104 31 57 59 68 14 6 38 12t39 6q8 0 12-2 10-3 30-42 6-11 16-31t20-35 17-30q2-2 10-14t12-20 4-16q0-11-16-27t-35-31-34-30-16-25q0-5 3-13t4-11 8-14 7-10q42-77 97-132t131-97q1 0 10-6t14-8 11-5 13-2q10 0 25 16t30 34 31 35 28 16q7 0 15-4t20-12 14-10q14-8 30-17t36-20 30-17q39-19 42-29 2-4 2-12z" horiz-adv-x="785.7" />
+</font>
+</defs>
+</svg>
